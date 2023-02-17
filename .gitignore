@@ -170,4 +170,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+# ignore .idea
+.idea/*
+
 # End of https://www.toptal.com/developers/gitignore/api/goland,macos,go
